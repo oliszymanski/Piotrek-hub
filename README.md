@@ -21,12 +21,12 @@
 ## 💻Technologies I use
 
 * ### 👩‍💻Languagues
- * #### Python
- * #### HTML
- * #### CSS
- * #### MySql
- * #### Bootstrap
- * #### GitHub
+  * #### Python
+  * #### HTML
+  * #### CSS
+  * #### MySql
+  * #### Bootstrap
+  * #### GitHub
 
 * ### IDEs:
   * #### __Atom__ *for python*
@@ -35,4 +35,4 @@
   * #### __C Lion__ *for C++*
 ---
 ## 🔗Links
-  * ### [Code Wars] 
+  * #### 🏮[Code Wars](https://www.codewars.com/users/Piotrek-hub) *5 kyu*
