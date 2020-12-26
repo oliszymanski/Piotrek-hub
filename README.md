@@ -7,7 +7,7 @@
 #### 🏫 Still learning
 #### ✅ In 2021 I want to master python for web apps
 
-___
+---
 
 ## 🏆My fav projects
 * ### __[YouTube Downloader](https://github.com/Piotrek-hub/YouTube-downloader)__
@@ -16,20 +16,23 @@ ___
 * ### __[App tracking phones prices](https://github.com/Piotrek-hub/Phones-prices-app)__
 * ### __[Simple weather app](https://github.com/Piotrek-hub/Weather-app)__
 
-___
+---
 
 ## 💻Technologies I use
 
 * ### 👩‍💻Languagues
- * ##### Python
- * ##### HTML
- * ##### CSS
- * ##### MySql
- * ##### Bootstrap
- * ##### GitHub
+ * #### Python
+ * #### HTML
+ * #### CSS
+ * #### MySql
+ * #### Bootstrap
+ * #### GitHub
 
-* ### IDE:
-  * #### __Atom__ for python
-  * #### __VS code__ for websites
-  * #### __Py Charm__ also for python
-  * #### __C Lion__ for C++
+* ### IDEs:
+  * #### __Atom__ *for python*
+  * #### __VS code__ *for websites*
+  * #### __Py Charm__ *also for python*
+  * #### __C Lion__ *for C++*
+---
+## 🔗Links
+  * ### [Code Wars] 
