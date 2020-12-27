@@ -2,7 +2,7 @@
 
 
 ## 🙋‍♂️About me
-#### 💻 I’m currently working on __[YouTube Downloader](https://github.com/Piotrek-hub/YouTube-downloader)__
+#### 💻 I’m currently working on __[Aim Trainer](https://github.com/c0ndi/aimTrainer)__
 #### 👩‍💻 I’m currently learning Flask
 #### 🏫 Still learning
 #### ✅ In 2021 I want to master python for web apps
