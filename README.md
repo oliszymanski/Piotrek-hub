@@ -1,4 +1,4 @@
-## Hi there, I'm Piotrek 👋
+## Hi there, nice to meet you👋
 
 
 ## 🙋‍♂️About me
